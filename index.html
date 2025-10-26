@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Color Palette Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>🎨 Color Palette Generator</h1>
+            <p class="subtitle">Create beautiful color palettes with one click</p>
+        </header>
+
+        <div class="controls">
+            <button id="generateBtn" class="btn btn-primary">Generate New Palette</button>
+            <button id="lockAllBtn" class="btn btn-secondary">Lock All</button>
+            <button id="unlockAllBtn" class="btn btn-secondary">Unlock All</button>
+        </div>
+
+        <div id="palette" class="palette"></div>
+
+        <div class="export-section">
+            <h3>Export Options</h3>
+            <div class="export-buttons">
+                <button id="exportCSSBtn" class="btn btn-export">Export as CSS</button>
+                <button id="exportJSONBtn" class="btn btn-export">Export as JSON</button>
+                <button id="exportImageBtn" class="btn btn-export">Save as Image</button>
+            </div>
+        </div>
+
+        <div id="codeOutput" class="code-output hidden">
+            <h3>Exported Code</h3>
+            <pre id="codeContent"></pre>
+            <button id="copyCodeBtn" class="btn btn-copy">Copy to Clipboard</button>
+        </div>
+
+        <footer>
+            <p>Press <kbd>Space</kbd> to generate a new palette</p>
+            <p>Click on any color to lock/unlock it</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
