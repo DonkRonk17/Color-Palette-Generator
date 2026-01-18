@@ -87,9 +87,11 @@ Feel free to fork, improve, and submit pull requests!
 
 MIT License - feel free to use in your projects!
 
-## 👤 Author
+## 🙏 Credits
 
-Created by DonkRonk17
+Created by **Randell Logan Smith and Team Brain** at [Metaphy LLC](https://metaphysicsandcomputing.com)
+
+Part of the HMSS (Heavenly Morning Star System) ecosystem.
 
 ---
 
