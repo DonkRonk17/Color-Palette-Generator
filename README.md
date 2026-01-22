@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6107bc58-eafe-4b2a-90e0-2a96f558d61a" />
+
 # 🎨 Color Palette Generator
 
 A beautiful, interactive web-based color palette generator. Create stunning color combinations with just one click!
@@ -78,6 +80,9 @@ Simply open `index.html` in your browser - no build process required!
 - **Smooth Animations**: Hover effects and transitions
 - **User-Friendly**: Intuitive interface with visual feedback
 - **No Installation**: Just download and open in browser
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/c4f0684e-c32e-4f33-aecf-9c29ad99ab8a" />
+
 
 ## 🤝 Contributing
 
